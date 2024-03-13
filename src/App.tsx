@@ -1,7 +1,7 @@
 import './App.css'
 function App() {
-let nome = "Mateus"
-let sobrenome = "Prado Alcântara"
+let nome = "Marcão"
+let sobrenome = "Bichona"
   return (
     <>
      <h1 className="nome">Nome: {nome}</h1>
