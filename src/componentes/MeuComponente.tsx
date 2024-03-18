@@ -10,7 +10,7 @@ function MeuComponente(){
     
     <>
     <header className='cabemin'>
-    <div className='div-cabemin'>{textodemin}</div>
+    <div className='div-cabemin'></div>
     </header>
 
     </>
