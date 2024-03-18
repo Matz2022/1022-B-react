@@ -7,9 +7,10 @@ import './MeuComponente.css'
 //Dentro da tag header nos temos uama div com o texto com borada vermelha "logo" de tamanho 200x200px  centralizada na vertical a 300px da lateral esquerda
 
 function MeuComponente(){
+    
     <>
     <header className='cabemin'>
-    <div className='div-cabemin'>{textodemin} </div>
+    <div className='div-cabemin'>{textodemin}</div>
     </header>
 
     </>
